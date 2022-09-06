@@ -1,1 +1,1 @@
-# odin-recipes
+A basic HTML website which contains some best Indian foods and their recipes.
